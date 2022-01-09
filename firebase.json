@@ -1,6 +1,7 @@
 {
   "hosting": {
     "public": "public",
+    "sites": "checksums",
     "ignore": [
       "firebase.json",
       "**/.*",
